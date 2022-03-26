@@ -12,7 +12,7 @@
   "devDependencies": {
     "electron": "^8.2.0",
     "electron-packager": "^14.2.1",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "dependencies": {
     "electron-store": "^5.1.1",
